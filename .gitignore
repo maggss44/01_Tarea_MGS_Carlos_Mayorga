@@ -1,1 +1,19 @@
+# .gitignore
+
+# Archivos de configuración.
+common_columns.yaml
+params.yaml
+*.ini
+
+# Archivos
+*.xlsx
 *.csv
+*.parquet
+*.txt
+*.xml
+*.json
+
+# Documentación
+*.docx
+*.pdf
+*.html

@@ -1,0 +1,6 @@
+root - INFO - Columnas comunes guardadas en ./artifacts/common_columns.yaml
+root - INFO - DataFrame preprocesado guardado en ./data/prep.csv
+root - INFO - DataFrame preprocesado de inferencia guardado en ./data/inference.csv
+root - INFO - Modelo entrenado guardado en ./artifacts/xgboost_model.joblib
+root - INFO - Hiperparámetros guardados en ./artifacts/params.yaml
+root - INFO - Predicciones guardadas en ./data/prediction.csv
