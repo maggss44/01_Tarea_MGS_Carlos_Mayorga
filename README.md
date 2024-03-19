@@ -25,3 +25,4 @@ project_root/
 |-- notebooks/
 |   |-- HPP_model.ipynb
 
+<img src="./artifacts/image1.html" alt="Diagrama arquitectura" style="height: 100px; width:100px;"/>
